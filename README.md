@@ -1,5 +1,5 @@
 Hello everyone!
-I'm Anupama Saha currently working as a PYTHON Intern at Internspedia.
+I'm Anupama Saha, PYTHON Intern at Internspedia.
 
 PYTHON Intern at Internspedia internship : This repository contains the tasks that I've completed while working as an intern for Interns'pedia Summer Bootcamp. 
 Internship Category - Summer Internship
